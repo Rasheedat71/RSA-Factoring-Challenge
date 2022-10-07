@@ -1,7 +1,7 @@
 # RSA-Factoring-Challenge
 
 ### Author :man_technologist:
-Rasheedat Olufunke Yusuf 😊_face:
+Rasheedat Olufunke Yusuf 😊
 
 ## Acknowledgement :pray:
 This project is designed to factorize as many numbers as possible into a product of two smaller numbers.
